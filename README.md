@@ -9,7 +9,7 @@ We aim to build a RNN model to predict the stock prices of Google using the data
 Note: These parameters can be changed as per requirements.
 
 ## Neural Network Model
-
+![](x.jpg)
 
 
 ## Design Steps
